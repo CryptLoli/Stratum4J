@@ -1,1 +1,1 @@
-rootProject.name = "Stratum4J"
+rootProject.name = "stratum4J"
