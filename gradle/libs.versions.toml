@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.3.21"
 ktor = "3.5.0"
-netty = "4.2.14.Final"
+netty = "4.2.15.Final"
 
 [libraries]
 ktor-bom = { module = "io.ktor:ktor-bom", version.ref = "ktor" }
